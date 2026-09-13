@@ -1,0 +1,54 @@
+body{
+    background-color: black;
+    margin: 25px;
+}
+H1{
+    color: white;
+    background-color: black;
+    font-family: Arial, sans-serif;
+    padding: 25px;
+}
+H2{
+    color: blue;
+    background-color: lightgray;
+    font-family: Arial, sans-serif;
+    padding: 15px;
+}
+P{
+    color: blue;
+    background-color: lightgray;
+    font-family: Arial, sans-serif;
+    padding: 10px;
+}
+a{
+    color:white;
+    background-color: black;
+    font-family: Arial, sans-serif;
+}
+img{
+    background-color: black;
+    border: 15px solid lightgray;
+    border-radius: 10px;
+    padding: 25px;
+}
+select{
+    color: white;
+    background-color: black;
+    font-family: Arial, sans-serif;
+}
+ul{
+    color: white;
+    background-color: none;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+}
+button{
+    color:rgb(253, 253, 253);
+    background-color: #0a0a0a;
+    font-family: Arial, sans-serif;
+}
+select{
+    color: white;
+    background-color: black;
+    font-family: Arial, sans-serif;
+}
