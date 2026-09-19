@@ -6,6 +6,7 @@ H1{
     color: white;
     background-color: black;
     font-family: Arial, sans-serif;
+    font-size: 50px;
     padding: 25px;
 }
 H2{
@@ -20,10 +21,56 @@ P{
     font-family: Arial, sans-serif;
     padding: 10px;
 }
+#hero{
+    font-family: Arial, sans-serif;
+    border: 15px solid lightgray;
+    width: 1200px;
+    border-radius: 10px;
+}
+.Title{
+    color: white;
+    background-color: black;
+    font-family: Arial, sans-serif;
+    font-size: 75px;
+}
+.subtitle{
+    color: white;
+    background-color: black;
+    font-family: Arial, sans-serif;
+    font-size: 25px;
+    width: 750px;
+}
+
+#FeaturedServices{
+    font-family: Arial, sans-serif;
+    border: 15px solid lightgray;
+    width: 1200px;
+    border-radius: 10px;
+}
 a{
     color:white;
     background-color: black;
     font-family: Arial, sans-serif;
+}
+select{
+    color: white;
+    background-color: black;
+    font-family: Arial, sans-serif;
+    padding: 10px;
+    margin: 10px;
+}
+button{
+    color:White;
+    background-color: black;
+    font-family: Arial, sans-serif;
+    padding: 10px;
+    margin: 10px;
+}
+ul{
+    color: white;
+    background-color: none;
+    font-family: Arial, sans-serif;
+    font-size: 25px;
 }
 img{
     background-color: black;
@@ -31,24 +78,8 @@ img{
     border-radius: 10px;
     padding: 25px;
 }
-select{
-    color: white;
-    background-color: black;
-    font-family: Arial, sans-serif;
-}
-ul{
-    color: white;
-    background-color: none;
-    font-family: Arial, sans-serif;
-    font-weight: bold;
-}
-button{
-    color:rgb(253, 253, 253);
-    background-color: #0a0a0a;
-    font-family: Arial, sans-serif;
-}
-select{
-    color: white;
-    background-color: black;
-    font-family: Arial, sans-serif;
+#images{
+    border: 15px solid lightgray;
+    padding: 25px;
+    border-radius: 10px;
 }
