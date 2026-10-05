@@ -1,0 +1,91 @@
+body{
+    background-color: white;
+    margin: 25px;
+}
+.dark-theme{
+    background-color: black;
+    color: white;
+}
+H1{
+    color: white;
+    background-color: black;
+    font-family: Arial, sans-serif;
+    font-size: 50px;
+    padding: 25px;
+}
+H2{
+    color: blue;
+    background-color: lightgray;
+    font-family: Arial, sans-serif;
+    padding: 15px;
+}
+P{
+    color: blue;
+    background-color: lightgray;
+    font-family: Arial, sans-serif;
+    padding: 10px;
+}
+#hero{
+    font-family: Arial, sans-serif;
+    border: 15px solid lightgray;
+    width: 1000px;
+    border-radius: 10px;
+}
+.Title{
+    color: white;
+    background-color: black;
+    font-family: Arial, sans-serif;
+    font-size: 50px;
+    width: 650px;
+}
+.subtitle{
+    color: white;
+    background-color: black;
+    font-family: Arial, sans-serif;
+    font-size: 25px;
+    width: 650px;
+}
+
+#FeaturedServices{
+    font-family: Arial, sans-serif;
+    border: 15px solid lightgray;
+    width: 1000px;
+    border-radius: 10px;
+}
+a{
+    color:white;
+    background-color: black;
+    font-family: Arial, sans-serif;
+}
+select{
+    color: white;
+    background-color: black;
+    font-family: Arial, sans-serif;
+    padding: 10px;
+    margin: 10px;
+}
+button{
+    color:White;
+    background-color: black;
+    font-family: Arial, sans-serif;
+    padding: 10px;
+    margin: 10px;
+}
+ul{
+    color: white;
+    background-color: none;
+    font-family: Arial, sans-serif;
+    font-size: 25px;
+}
+img{
+    background-color: black;
+    border: 5px solid lightgray;
+    border-radius: 10px;
+    padding: 20px;
+}
+#images{
+    border: 15px solid lightgray;
+    width: 960px;
+    border-radius: 10px;
+    padding: 20px;
+}
